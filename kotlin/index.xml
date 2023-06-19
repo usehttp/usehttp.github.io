@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Thu, 08 Jun 2023 21:55:50 +0200</lastBuildDate><atom:link href="https://usehttp.github.io/kotlin/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Jun 2023 23:00:43 +0200</lastBuildDate><atom:link href="https://usehttp.github.io/kotlin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kotlin vs Java   the Key Kotlin Benefits for Developers</title>
+      <link>https://usehttp.github.io/kotlin/kotlin-vs-java-the-key-kotlin-benefits-for-developers/</link>
+      <pubDate>Mon, 19 Jun 2023 23:00:43 +0200</pubDate>
+      
+      <guid>https://usehttp.github.io/kotlin/kotlin-vs-java-the-key-kotlin-benefits-for-developers/</guid>
+      <description>Kotlin &amp;amp; its history Kotlin vs Java - The key Kotlin benefits for developers It’s fast and concise It’s safe with null safety Simple extension functions It simplifies the creation of data classes It handles casts automatically, in a ‘smart’ way It’s very flexible, with the ability to carry out both object oriented and functional programming Setup Kotlin development environment Install VSCode Setup VSCode extensions &amp;amp; plugins for Kotlin development DL&amp;amp;install Kotlin command-line compiler Setup runtime environment for Kotlin compiler Test the Hello World project fun main(){ println(&amp;#34;Hello, let&amp;#39;s have fun 15 mins with Kotlin&amp;#34;) } </description>
+    </item>
+    
     <item>
       <title>HelloKotlin</title>
       <link>https://usehttp.github.io/kotlin/hellokotlin/</link>
