@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 19 Jun 2023 23:00:43 +0200</lastBuildDate><atom:link href="https://usehttp.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Jun 2023 00:49:31 +0200</lastBuildDate><atom:link href="https://usehttp.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kotlin Var vs Val</title>
+      <link>https://usehttp.github.io/kotlin/kotlin-var-vs-val/</link>
+      <pubDate>Wed, 21 Jun 2023 00:49:31 +0200</pubDate>
+      
+      <guid>https://usehttp.github.io/kotlin/kotlin-var-vs-val/</guid>
+      <description> var val Ref. type Can only be assigned once, Read Only Can be assigned &amp;amp; changed multiple times, Mutable Example val i = 100 var i = 100 Characteristics (1) Must be initialized (2) Value cannot be changed or reassign (1) Can initialize later by using lateinit (2) Value can be changed or reassign but not in global scope Use Cases Create variables that should not be accidentally modified, or property remain unchanged Property will vary in time </description>
+    </item>
+    
     <item>
       <title>Kotlin vs Java   the Key Kotlin Benefits for Developers</title>
       <link>https://usehttp.github.io/kotlin/kotlin-vs-java-the-key-kotlin-benefits-for-developers/</link>
